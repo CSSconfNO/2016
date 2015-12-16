@@ -4,6 +4,6 @@ Inspired by the [Web Rebels organizer wiki](https://github.com/webrebels/rebelad
 
 ## 2016
 
-When: Wednesday 01 June 2016
-Where: Oslo, Norway
-Venue: [Dansens hus](http://www.dansenshus.com/)
+* When: Wednesday 01 June 2016
+* Where: Oslo, Norway
+* Venue: [Dansens hus](http://www.dansenshus.com/)
