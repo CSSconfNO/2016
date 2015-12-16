@@ -16,7 +16,7 @@ We are part of a series of events around the world. We are commited to diversity
 
 These three conferences are separate conferences, but some things are co-ordinated between the events.
 
-* [Web Rebels 5th edition](http://webrebels.org/) 
-* [NodeConf Oslo](http://oslo.nodeconf.com/)
+* Thursday 02 — Friday 03 June: [Web Rebels 5th edition](http://webrebels.org/) 
+* Saturday 04 June: [NodeConf Oslo](http://oslo.nodeconf.com/)
 
 
