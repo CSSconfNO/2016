@@ -26,14 +26,14 @@ The first week of June 2016, there are 3 conferences happening: CSSconf, Web Reb
 * Saturday 04 June: [NodeConf Oslo](http://oslo.nodeconf.com/)
 
 ## Team
-### Organizers
+*Organizers*
 * [Elisabeth](https://github.com/elisabethirgens)
 * [Kolombiken](https://github.com/kolombiken)
 
-### Volunteers
+*Volunteers*
 * website and design — [Stephanie](https://github.com/NerdyBirdySteph)
 
-### Support
+*…with support from*
 * [Kristina Schneider](https://twitter.com/kriesse) and [CSSconf EU](https://twitter.com/cssconfeu)
 * [Web Rebels crew](https://twitter.com/web_rebels)
 
