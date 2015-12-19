@@ -9,21 +9,23 @@ Inspired by the [Web Rebels organizer wiki](https://github.com/webrebels/rebelad
 * one day, one track, 8 speakers
 * Venue: [Dansens hus](http://www.dansenshus.com/)
 
-### Links
-* [cssconf.no](http://cssconf.no/)
-* [Event on Lanyrd](http://lanyrd.com/2016/cssconfno/)
-* [@cssconfno](http://twitter.com/cssconfno)
-* [instagram](https://instagram.com/cssconfno/)
+## Communication
+* Website for the important basic information — [cssconf.no](http://cssconf.no/)
+* Twitter for notifications and random messages — [@cssconfno](http://twitter.com/cssconfno)
+* A newsletter for anyone interested in updates (working on it!)
+* Event is also registered on [Lanyrd](http://lanyrd.com/2016/cssconfno/)
+* …and for organizers to procrastinate from managing spreadsheets to post coffee photos instead: [Instagram](https://instagram.com/cssconfno/)
 
 ## Part of the international CSSconf family
 
 We are part of a series of events around the world. We are commited to diversity and operate under a [Code of Conduct](http://cssconf.no/#CoC). More on [cssconf.org](http://cssconf.org/) about what it means to organize a CSSconf.
 
-## Happening same week in Oslo
-The first week of June 2016, there are 3 conferences happening in Oslo: CSSconf, Web Rebels and NodeConf. They are separate conferences, but some things are co-ordinated between the events. More about the background in this post about [Web Rebels’ 5th Anniversary Edition](http://webrebels.tumblr.com/post/135241817448/anniversary-edition).
+## Collaborations
+The first week of June 2016, there are 3 conferences happening in Oslo: CSSconf, Web Rebels and NodeConf. More about the background in this post about [Web Rebels’ 5th Anniversary Edition](http://webrebels.tumblr.com/post/135241817448/anniversary-edition). These are separate conferences, but some things are co-ordinated between the events. This includes for example venue booking, accounting, possibly ticket sales and  probably [scholarships](http://webrebels.tumblr.com/post/132863505363/how-we-started-the-web-rebels-scholarship).
 
-* Thursday 02 — Friday 03 June: [Web Rebels](http://webrebels.org/) 
-* Saturday 04 June: [NodeConf Oslo](http://oslo.nodeconf.com/)
+* Wednesday 01 June → [CSSconf Nordic](http://cssconf.no/) 
+* Thursday 02 and Friday 03 June → [Web Rebels](http://webrebels.org/) 
+* Saturday 04 June → [NodeConf Oslo](http://oslo.nodeconf.com/)
 
 ## Team
 *Organizers*
@@ -39,3 +41,7 @@ The first week of June 2016, there are 3 conferences happening in Oslo: CSSconf,
 
 ## Speakers
 Our talk selection process includes a Call for Speakers (CfS) in combination with some speakers being invited directly. We are inspired by CSSconf EU’s [strategies to make biases conscious](http://blog.cssconf.eu/2015/08/15/a-talk-selection-process-explained/).
+
+## Sponsors
+We want sponsors to help keep ticket prices affordable.
+Does your company want hear more about sponsoring the conference? [Get in touch!](mailto:hello@cssconf.no?subject=Let’s talk about sponsoring CSSconfNO).
