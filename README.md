@@ -44,4 +44,4 @@ Our talk selection process includes a Call for Speakers (CfS) in combination wit
 
 ## Sponsors
 We want sponsors to help keep ticket prices affordable.
-Does your company want hear more about sponsoring the conference? [Get in touch!](mailto:hello@cssconf.no?subject=Let’s talk about sponsoring CSSconfNO).
+Does your company want hear more about sponsoring the conference? [Get in touch!](mailto:hello@cssconf.no?subject=Let’s talk about sponsoring CSSconfNO)
