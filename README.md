@@ -42,6 +42,13 @@ The first week of June 2016, there are 3 conferences happening in Oslo: CSSconf,
 ## Speakers
 Our talk selection process includes a Call for Speakers (CfS) in combination with some speakers being invited directly. We are inspired by CSSconf EU’s [strategies to make biases conscious](http://blog.cssconf.eu/2015/08/15/a-talk-selection-process-explained/).
 
+#### Call for Speakers
+* Opened on: [23 December 2016](https://twitter.com/CSSconfNO/status/679626203993616384)
+* Closes on: 31 January 2016
+* Notification date: 15 Febuary 2016
+* [Call for Speakers information page](http://cssconf.no/call-for-speakers)
+* [Submission form with Wufoo](https://cssconfno.wufoo.eu/forms/call-for-speakers/)
+
 ## Sponsors
 We want sponsors to help keep ticket prices affordable.
 Does your company want hear more about sponsoring the conference? [Get in touch!](mailto:hello@cssconf.no?subject=Let’s talk about sponsoring CSSconfNO)
