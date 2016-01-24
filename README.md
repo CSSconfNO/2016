@@ -40,7 +40,7 @@ The first week of June 2016, there are 3 conferences happening in Oslo: CSSconf,
 * [Web Rebels crew](https://twitter.com/web_rebels)
 
 ## Speakers
-Our talk selection process includes a Call for Speakers (CfS) in combination with some speakers being invited directly. Want to read all the details? Head over to the page where we’ve written up our [talk selection process](https://github.com/CSSconfNO/cssconfno-admin/blob/master/talk-selection.md)
+Our talk selection process includes a Call for Speakers (CfS) in combination with some speakers being invited directly. Want to read all the details? Head over to the page where we’ve written up our [talk selection process](https://github.com/CSSconfNO/cssconfno-admin/blob/master/talk-selection.md).
 
 #### Call for Speakers
 * Opened on: [23 December 2015](https://twitter.com/CSSconfNO/status/679626203993616384)
