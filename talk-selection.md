@@ -1,9 +1,9 @@
 # Talk Selection Process
-### Some words on how we are selecting talks for CSSconf Nordic 2016
+### Some words on making the program for CSSconf Nordic 2016
 
-[Call for Speakers information page](http://cssconf.no/call-for-speakers)
+### Call for Speakers
 
-[Submission form with Wufoo](https://cssconfno.wufoo.eu/forms/call-for-speakers/)
+[Main CfS information page](http://cssconf.no/call-for-speakers) + [Submission form with Wufoo](https://cssconfno.wufoo.eu/forms/call-for-speakers/)
 
 * Opened on: 23 December 2016
 * Closes on: 31 January 2016
@@ -37,4 +37,4 @@ We believe the best conferences are diverse conferences. We all know by now that
 ## Curating a program
 Our main goal is to create an inspiring conference for our attendees. Our CfS is not a competition, all though we understand it may feel like one. We’re curating a program — and that means looking out for some narrow topics and some broad, different technical levels, a variety of talk styles — and to create a stage where we get to hear from different voices.
 
-**So you should also share your ideas. Go for it!** 🚀 [CSSconf Nordic Call for Speakers](http://cssconf.no/call-for-speakers)
+**So you should also share your ideas. Go for it!** 🚀 [CSSconf Nordic — Call for Speakers](http://cssconf.no/call-for-speakers)
