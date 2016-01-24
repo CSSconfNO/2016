@@ -6,7 +6,7 @@ Some words on making the program for CSSconf Nordic 2016.
 
 [Main CfS information page](http://cssconf.no/call-for-speakers) + [Submission form with Wufoo](https://cssconfno.wufoo.eu/forms/call-for-speakers/)
 
-* Opened on: 23 December 2016
+* Opened on: 23 December 2015
 * Closes on: 31 January 2016
 * Review period: 01–14 February 2016
 * Notification date: 15 February 2016
