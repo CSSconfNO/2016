@@ -9,6 +9,16 @@ Inspired by the [Web Rebels organizer wiki](https://github.com/webrebels/rebelad
 * one day, one track, 8 speakers
 * Venue: [Dansens hus](http://www.dansenshus.com/)
 
+## Speakers
+Our talk selection process includes a Call for Speakers (CfS) in combination with some speakers being invited directly. Want to read all the details? Head over to the page where we’ve written up our [talk selection process](https://github.com/CSSconfNO/cssconfno-admin/blob/master/talk-selection.md).
+
+#### Call for Speakers
+* Opened on: [23 December 2015](https://twitter.com/CSSconfNO/status/679626203993616384)
+* Closes on: 31 January 2016
+* Notification date: 15 Febuary 2016
+* [Call for Speakers information page](http://cssconf.no/call-for-speakers)
+* [Submission form with Wufoo](https://cssconfno.wufoo.eu/forms/call-for-speakers/)
+
 ## Communication
 * Website for the important basic information — [cssconf.no](http://cssconf.no/)
 * Twitter for notifications and random messages — [@cssconfno](http://twitter.com/cssconfno)
@@ -38,16 +48,6 @@ The first week of June 2016, there are 3 conferences happening in Oslo: CSSconf,
 *…with support from*
 * [Kristina Schneider](https://twitter.com/kriesse) and [CSSconf EU](https://twitter.com/cssconfeu)
 * [Web Rebels crew](https://twitter.com/web_rebels)
-
-## Speakers
-Our talk selection process includes a Call for Speakers (CfS) in combination with some speakers being invited directly. Want to read all the details? Head over to the page where we’ve written up our [talk selection process](https://github.com/CSSconfNO/cssconfno-admin/blob/master/talk-selection.md).
-
-#### Call for Speakers
-* Opened on: [23 December 2015](https://twitter.com/CSSconfNO/status/679626203993616384)
-* Closes on: 31 January 2016
-* Notification date: 15 Febuary 2016
-* [Call for Speakers information page](http://cssconf.no/call-for-speakers)
-* [Submission form with Wufoo](https://cssconfno.wufoo.eu/forms/call-for-speakers/)
 
 ## Sponsors
 We want sponsors to help keep ticket prices affordable.
