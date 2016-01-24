@@ -1,7 +1,8 @@
 # Talk Selection Process
-### Some words on making the program for CSSconf Nordic 2016
 
-### Call for Speakers
+Some words on making the program for CSSconf Nordic 2016.
+
+## Call for Speakers
 
 [Main CfS information page](http://cssconf.no/call-for-speakers) + [Submission form with Wufoo](https://cssconfno.wufoo.eu/forms/call-for-speakers/)
 
