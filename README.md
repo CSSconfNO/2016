@@ -52,6 +52,7 @@ The first week of June 2016, there are 3 conferences happening in Oslo: CSSconf,
 ## Sponsors
 
 * [Mozilla](https://twitter.com/CSSconfNO/status/694423723546415104)
+* [Opbeat](https://twitter.com/CSSconfNO/status/725575530620305408)
 
 We want sponsors to help keep ticket prices affordable.
 Does your company want hear more about sponsoring the conference? [Get in touch!](mailto:hello@cssconf.no?subject=Let’s talk about sponsoring CSSconfNO)
