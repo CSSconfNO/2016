@@ -1,0 +1,59 @@
+
+html {
+  background-color: #fff;
+  color: #444;
+  font-family: Monaco, monospace;
+}
+
+body {
+  font-size: 100%;
+  line-height: 1.6;
+}
+
+.wrapper {
+  max-width: 90%;
+  margin: 2em auto;
+}
+
+@media screen and (min-width: 900px) {
+  .wrapper {
+    max-width: 700px;
+  }
+}
+
+a {
+    text-decoration: none;
+    color: #004e91;
+    border-bottom: 2px solid #ddd;
+}
+
+a:hover,
+a:focus {
+    color: #003760;
+}
+
+h2 {
+    font-size: 1.75em;
+    margin-bottom: 0.25em;
+}
+
+h3 {
+    font-size: 1.25em;
+    margin-bottom: 0.25em;
+}
+
+p {
+    margin: 0 0 1.5em 0;
+}
+
+strong {
+    color: #222;
+    background-color: #eee;
+    padding: 1px 5px;
+}
+
+hr {
+    margin: 2em 0;
+    border: 2px solid #eee;
+}
+
