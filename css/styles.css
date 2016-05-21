@@ -34,11 +34,13 @@ a:focus {
 
 h2 {
     font-size: 1.75em;
+    line-height: 1.2;
     margin-bottom: 0.25em;
 }
 
 h3 {
     font-size: 1.25em;
+    line-height: 1.2;
     margin-bottom: 0.25em;
 }
 
