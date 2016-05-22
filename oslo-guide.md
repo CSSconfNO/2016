@@ -30,7 +30,7 @@ The conference venue at Vulkan is in walking distance from our favourite parts o
 * **Freddy Fuego Burrito Bar** — Mmmm, affordable burritos!
 * **Taco República** — Mmmmm, top notch tasty tacos!
 
-## Sights
+## Places to walk and things to do
 * **Frogner Park** — Lovely park (free!) full of fun statues to photograph and attribute false quotes about CSS.
 * **Karl Johans gate** — Main street (free if you just walk!) from the central station, pass the Norwegian Parliament and National Theatre, and end up at the Royal Palace.
 * **Opera House** — Awesome architecture to walk across (free!), right next to the central station.
