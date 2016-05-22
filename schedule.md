@@ -24,5 +24,5 @@
 
 **17:15** — 🍴 time for dinner, suggestions TBA 
 
-**19:00** — Social meet and greet for CSSconf and Web Rebels attendees, V Bar & Bistro (the bar
-the bar on the ground floor of hotel Scandic Vulkan) 🎈
+**19:00** — Social meet and greet for CSSconf and Web Rebels attendees 🎈<br> 
+V Bar & Bistro (on the ground floor of Scandic Vulkan hotel) 
