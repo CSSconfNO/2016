@@ -1,23 +1,28 @@
 ### CSSconf Nordic 2016 Schedule
 
-**08:00** — registration 🎫
+**08:00** — 🎫 registration opens at Dansens hus
 
 **09:00** — Håkon Wium Lie: Why CSS was invented <br>
 **09:45** — Aga Naplocha: A Creative Approach to SVG 
 
-**10:30** — break ☕️
+**10:30** — ☕️ break
 
 **11:00** — Dan Na: Transitioning to Sass at Scale <br>
 **11:45** — Rachel Nabors: Alice in Web Animations API Land 
 
-**12:30** — lunch 🍴
+**12:30** — 🍴 lunch
 
 **13:30** — Jen Simmons: Revolutionize Your Page  <br>
 **14:15** — Liam Campbell: Mad Science with CSS
 
-**15:00** — break ☕️
+**15:00** — ☕️ break
 
 **15:30** — Eva Ferreira: You Don't Know Transforms  <br>
 **16:15** — Lena Reinhard: Surviving in a high-speed environment
 
-**17:00** dinner and social gathering 🍴🎈
+**17:00** — …and it’s a wrap! 🎉 
+
+**17:15** — 🍴 time for dinner, suggestions TBA 
+
+**19:00** — Social meet and greet for CSSconf and Web Rebels attendees, V Bar & Bistro (the bar
+the bar on the ground floor of hotel Scandic Vulkan) 🎈
