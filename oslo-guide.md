@@ -39,3 +39,13 @@ The conference venue at Vulkan is in walking distance from our favourite parts o
 * **Walk up to St. Hanshaugen** — Follow Telthusbakken, Old Aker Church and 
 cemetery, past the Synagogue in Bergstien and up to the park.
 * **Government Quarter** — Not usually listed as a tourist attraction, these buildings are the first site of the 2011 terror attacks. We think it’s important that visitors come here. And when you go back home, remind others about this right-wing Christian terrorist with a xenophobic worldview. Don’t miss the unrepaired newspaper display case, and Y-block with outside relief after drawings by Pablo Picasso.
+
+## Practical tips and getting around
+
+We recommend using [public transport](https://ruter.no/en/getting-help/travelling-on-public-transport/). Ticket inspections are frequent, so please make sure you always travel with a valid ticket.
+
+The best way to get to the venue is by tram and then a small walk. 12 Disen or 13 Storo-Grefsen are blue trams, that you find right outside the central station. 3 stops (6 min) and get off at Schous plass.
+
+If you arrive at [Oslo Airport Gardermoen (OSL)](https://avinor.no/en/airport/oslo-airport/), you can take the [airport express (Flytoget)](http://flytoget.no/flytoget_eng/) which is super convenient. Or you can save some moeny by taking a local train in to Oslo Central Station.
+
+**ATM to withdraw** or **Forex Bank to exchange** can both be found in the same area at the station. Remember: Norwegian Kroners, not Euros! You can use a card almost everywhere, so many locals will not carry cash daily. Visitors may have issues if cards have no chip. But if you have a VISA or MasterCard with a chip, you might not need a lot of cash in Oslo.
