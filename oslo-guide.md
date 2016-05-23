@@ -1,34 +1,36 @@
 
 # Oslo Guide
 
-The conference venue at Vulkan is in walking distance from our favourite parts of Oslo: Grünerløkka and Torggata. Here are some suggestions in these 3 areas, but you will also find lots more in the same neighbourhoods. Also: sights in other parts of the city!
+The conference venue at [Vulkan](#vulkan) is in walking distance from our favourite parts of Oslo: Grünerløkka and Torggata. Here are some suggestions in these 3 areas, but you will also find lots more in the same neighbourhoods.
+
+Also: [places to walk and things to do](#places-to-walk-and-things-to-do) in other parts of the city!
 
 ## Vulkan
-* **Hendrix Ibsen** — Coffee, wifi, power outlets, snacks.
-* **Døgnvill Burger** — Speciality burgers and scrumptious milkshakes.
-* **Mathallen** — Indoor food market with shops, cafés and eateries, for example:
-* **Smelteverket** — Gastropub in the basement.
+* **[Hendrix Ibsen]()http://www.vulkanoslo.no/business/hendrix-ibsen/** — Coffee, wifi, power outlets, snacks.
+* **[Døgnvill Burger](http://dognvillburger.no/menus/oslo-vulkan/burgere-olso/)** — Speciality burgers and scrumptious milkshakes.
+* **[Mathallen](http://mathallenoslo.no/en/)** — Indoor food market with shops, cafés and eateries, for example:
+* **[Smelteverket](http://smelteverketoslo.no/)** — Gastropub in the basement.
 * **[Solberg & Hansen](http://mathallenoslo.no/en/butikk/solberg-hansen/)** — Excellent coffee and tea.
 * **[Hopyard](http://mathallenoslo.no/en/butikk/hopyard/)** — Impressive selection of bottled beer.
 * **[Paradis Gelateria](http://villaparadiso.no/mat/)** — Mmm, ice cream…
 
 ## Grünerløkka
-* **Villa Paradiso** — Pizza! A great affordable dinner option.
-* **Tim Wendelboe** — A must for coffee geeks.
-* **BrewDog BD57** — A must for craft beer geeks.
-* **Kamai Café** — Treat yourself to yummy sushi and bao.
-* **Territoriet** — An excellent choice for wine. And cheese.
+* **[Villa Paradiso](http://villaparadiso.no/mat/)** — Pizza! A great affordable dinner option.
+* **[Tim Wendelboe](https://www.timwendelboe.no/about-us)** — A must for coffee geeks.
+* **[BrewDog BD57](https://www.brewdog.com/bars/worldwide/grunerlokka)** — A must for craft beer geeks.
+* **[Kamai Café](http://www.kamai.no/)** — Treat yourself to yummy sushi and bao. (They also have a restaurant in the backyard, but that’s a different place.)
+* **[Territoriet](https://www.territoriet.no/)** — An excellent choice for wine. And cheese.
 * **[Chillout](https://goo.gl/maps/HrNWGEKJsEp)** — Travel shop and café with affordable lunch.
 * **[Grünerløkka Brygghus](http://brygghus.no/)** — Local brew pub with food.
 
 ## Torggata
-* **Café Sara** — Affordable food and excellent beer selection.
-* **Peloton** — Perfect spot to work and/or grab a pizza.
-* **Fiskeriet Youngstorget** — Great seafood at informal place.
+* **[Café Sara](http://www.cafesara.no/meny/mat/)** — Affordable food and excellent beer selection.
+* **[Peloton](http://pelotonoslo.tumblr.com/)** — Perfect spot to work and/or grab a pizza.
+* **[Fiskeriet Youngstorget](http://fiskeriet.com/meny/)** — Great seafood at informal place.
 * **[Tilt](http://tiltoslo.no/)** — Shuffleboard, pinball and lots of great beers.
-* **Crowbar** — Brewpub with local and guest brews on tap.
-* **Freddy Fuego Burrito Bar** — Mmmm, affordable burritos!
-* **Taco República** — Mmmmm, top notch tasty tacos!
+* **[Crowbar](https://goo.gl/maps/546gwcFurVy)** — Brewpub with local and guest brews on tap.
+* **[Freddy Fuego Burrito Bar](http://freddyfuego.no/)** — Mmmm, affordable burritos!
+* **[Taco República](http://tacorepublica.no/)** — Mmmmm, top notch tasty tacos!
 
 ## Places to walk and things to do
 * **[Frogner Park](https://en.wikipedia.org/wiki/Frogner_Park)** — Lovely park (free!) full of fun statues to photograph and attribute false quotes about CSS.
@@ -38,7 +40,7 @@ The conference venue at Vulkan is in walking distance from our favourite parts o
 * **[Astrup Fearnley](http://afmuseet.no/en/hjem)** — Art gallery (NOK 120) at Tjuvholmen, fancy part of the city that can be an interesting stroll.
 * **Walk up to St. Hanshaugen** — Follow [Telthusbakken](http://www.visitoslo.com/en/product/?TLp=181574), [Old Aker Church](https://en.wikipedia.org/wiki/Old_Aker_Church) and 
 cemetery, past the [Synagogue](https://en.wikipedia.org/wiki/Oslo_Synagogue) in Bergstien and up to the park.
-* **Government Quarter** — Not usually listed as a tourist attraction, these buildings are the first site of the [2011 terror attacks](https://en.wikipedia.org/wiki/2011_Norway_attacks). We think it’s important that visitors come here. And when you go back home, remind others about this right-wing Christian terrorist with a xenophobic worldview. Don’t miss the unrepaired newspaper display case, and Y-block with outside relief after drawings by Pablo Picasso.
+* **[Government Quarter](https://en.wikipedia.org/wiki/Regjeringskvartalet)** — Not usually listed as a tourist attraction, these buildings are the first site of the [2011 terror attacks](https://en.wikipedia.org/wiki/2011_Norway_attacks). We think it’s important that visitors come here. And when you go back home, remind others about this right-wing Christian terrorist with a xenophobic worldview. Don’t miss the unrepaired newspaper display case, and Y-block with outside relief after drawings by Pablo Picasso.
 
 ## Practical tips and getting around
 
@@ -51,5 +53,5 @@ If you arrive at [Oslo Airport Gardermoen (OSL)](https://avinor.no/en/airport/os
 ## Links
 
 * [Web Rebels’ Oslo Survival Guide](https://webrebels.org/oslo)
-* [Travel Guide to Oslo](http://www.visitoslo.com/)
+* [Visit Oslo Travel Guide](http://www.visitoslo.com/)
 * [Lonely Planet on Oslo](https://www.lonelyplanet.com/norway/oslo)
