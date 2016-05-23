@@ -6,7 +6,7 @@ The conference venue at [Vulkan](#vulkan) is in walking distance from our favour
 Also: [places to walk and things to do](#places-to-walk-and-things-to-do) in other parts of the city!
 
 ## Vulkan
-* **[Hendrix Ibsen]()http://www.vulkanoslo.no/business/hendrix-ibsen/** — Coffee, wifi, power outlets, snacks.
+* **[Hendrix Ibsen](http://www.vulkanoslo.no/business/hendrix-ibsen/)** — Coffee, wifi, power outlets, snacks.
 * **[Døgnvill Burger](http://dognvillburger.no/menus/oslo-vulkan/burgere-olso/)** — Speciality burgers and scrumptious milkshakes.
 * **[Mathallen](http://mathallenoslo.no/en/)** — Indoor food market with shops, cafés and eateries, for example:
 * **[Smelteverket](http://smelteverketoslo.no/)** — Gastropub in the basement.
@@ -18,7 +18,7 @@ Also: [places to walk and things to do](#places-to-walk-and-things-to-do) in oth
 * **[Villa Paradiso](http://villaparadiso.no/mat/)** — Pizza! A great affordable dinner option.
 * **[Tim Wendelboe](https://www.timwendelboe.no/about-us)** — A must for coffee geeks.
 * **[BrewDog BD57](https://www.brewdog.com/bars/worldwide/grunerlokka)** — A must for craft beer geeks.
-* **[Kamai Café](http://www.kamai.no/)** — Treat yourself to yummy sushi and bao. (They also have a restaurant in the backyard, but that’s a different place.)
+* **[Kamai](http://www.kamai.no/)** — Treat yourself to yummy sushi and bao in the café. (They also have a restaurant.)
 * **[Territoriet](https://www.territoriet.no/)** — An excellent choice for wine. And cheese.
 * **[Chillout](https://goo.gl/maps/HrNWGEKJsEp)** — Travel shop and café with affordable lunch.
 * **[Grünerløkka Brygghus](http://brygghus.no/)** — Local brew pub with food.
@@ -36,11 +36,11 @@ Also: [places to walk and things to do](#places-to-walk-and-things-to-do) in oth
 * **[Frogner Park](https://en.wikipedia.org/wiki/Frogner_Park)** — Lovely park (free!) full of fun statues to photograph and attribute false quotes about CSS.
 * **[Karl Johans gate](https://en.wikipedia.org/wiki/Karl_Johans_gate)** — Main street (free if you just walk!) from the central station, pass the Norwegian Parliament and National Theatre, and end up at the Royal Palace.
 * **[Opera House](https://en.wikipedia.org/wiki/Oslo_Opera_House)** — Awesome architecture to walk across (free!), right next to the central station.
-* **[The Munch Museum](http://munchmuseet.no/en/visit)** — Go check out The Scream and other paintings (NOK 100). Natural History Museum (NOK 50) and Botanical Garden (free!) are in the same area.
-* **[Astrup Fearnley](http://afmuseet.no/en/hjem)** — Art gallery (NOK 120) at Tjuvholmen, fancy part of the city that can be an interesting stroll.
+* **[The Munch Museum](http://munchmuseet.no/en/visit)** — Go check out The Scream and other paintings (NOK 100). [Natural History Museum](http://www.nhm.uio.no/english/) (NOK 50) and [Botanical Garden](http://www.nhm.uio.no/english/visiting/botanical-garden/) (free!) are in the same area.
+* **[Astrup Fearnley](http://afmuseet.no/en/hjem)** — Art gallery (NOK 120) at [Tjuvholmen](http://www.visitoslo.com/en/product/?TLp=554819), fancy part of the city that can be an interesting stroll. Bus 54 goes straight from Vulkan out here.
 * **Walk up to St. Hanshaugen** — Follow [Telthusbakken](http://www.visitoslo.com/en/product/?TLp=181574), [Old Aker Church](https://en.wikipedia.org/wiki/Old_Aker_Church) and 
 cemetery, past the [Synagogue](https://en.wikipedia.org/wiki/Oslo_Synagogue) in Bergstien and up to the park.
-* **[Government Quarter](https://en.wikipedia.org/wiki/Regjeringskvartalet)** — Not usually listed as a tourist attraction, these buildings are the first site of the [2011 terror attacks](https://en.wikipedia.org/wiki/2011_Norway_attacks). We think it’s important that visitors come here. And when you go back home, remind others about this right-wing Christian terrorist with a xenophobic worldview. Don’t miss the unrepaired newspaper display case, and Y-block with outside relief after drawings by Pablo Picasso.
+* **[Government Quarter](https://en.wikipedia.org/wiki/Regjeringskvartalet)** — Not usually listed as a tourist attraction, these buildings are the first site of the [2011 terror attacks](https://en.wikipedia.org/wiki/2011_Norway_attacks). We think it’s important that visitors come here. And when you go back home, remind others about this right-wing Christian terrorist with a xenophobic worldview. Don’t miss the unrepaired newspaper display case, and Y-block with [mural by Pablo Picasso](https://en.wikipedia.org/wiki/Picasso's_Regjeringskvartalet_murals).
 
 ## Practical tips and getting around
 
