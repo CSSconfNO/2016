@@ -12,13 +12,13 @@
 
 **12:30** — 🍴 lunch
 
-**13:30** — Jen Simmons: Revolutionize Your Page  <br>
+**13:30** — Jen Simmons: Revolutionize Your Page: Real Art Direction on the Web <br>
 **14:15** — Liam Campbell: Mad Science with CSS
 
 **15:00** — ☕️ break
 
-**15:30** — Eva Ferreira: You Don't Know Transforms  <br>
-**16:15** — Lena Reinhard: Surviving in a high-speed environment
+**15:30** — Eva Ferreira: Raiders of the Lost Transforms <br>
+**16:15** — Lena Reinhard: Existing in the Tech Industry: How to cope with the pressure of a fast-paced environment
 
 **17:00** — …and it’s a wrap! 🎉 
 
