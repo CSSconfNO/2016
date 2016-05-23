@@ -1,9 +1,9 @@
 
 # Oslo Guide
 
-The conference venue at [Vulkan](#vulkan) is in walking distance from our favourite parts of Oslo: Grünerløkka and Torggata. Here are some suggestions in these 3 areas, but you will also find lots more in the same neighbourhoods.
+The conference venue at [Vulkan](#vulkan) is in walking distance from our favourite parts of Oslo: [Grünerløkka](#gr%C3%BCnerl%C3%B8kka) and [Torggata](#torggata). Here are some suggestions, but you will also find lots more in the same neighbourhoods.
 
-Also: [places to walk and things to do](#places-to-walk-and-things-to-do) in other parts of the city!
+Also: [places to walk — and things to do](#places-to-walk-and-things-to-do) in other parts of the city!
 
 ## Vulkan
 * **[Hendrix Ibsen](http://www.vulkanoslo.no/business/hendrix-ibsen/)** — Coffee, wifi, power outlets, snacks.
