@@ -12,7 +12,7 @@ Also: [places to walk — and things to do](#places-to-walk-and-things-to-do) in
 * **[Smelteverket](http://smelteverketoslo.no/)** — Gastropub in the basement.
 * **[Solberg & Hansen](http://mathallenoslo.no/en/butikk/solberg-hansen/)** — Excellent coffee and tea.
 * **[Hopyard](http://mathallenoslo.no/en/butikk/hopyard/)** — Impressive selection of bottled beer.
-* **[Paradis Gelateria](http://villaparadiso.no/mat/)** — Mmm, ice cream…
+* **[Paradis Gelateria](http://villaparadiso.no/mat/)** — Mmm, ice cream… 🍦
 
 ## Grünerløkka
 * **[Villa Paradiso](http://villaparadiso.no/mat/)** — Pizza! A great affordable dinner option.
@@ -44,11 +44,11 @@ cemetery, past the [Synagogue](https://en.wikipedia.org/wiki/Oslo_Synagogue) in 
 
 ## Practical tips and getting around
 
-We recommend using [public transport](https://ruter.no/en/getting-help/travelling-on-public-transport/). Ticket inspections are frequent, so please make sure you always travel with a valid ticket. The best way to get to the venue is by tram and then a small walk. 12 Disen or 13 Storo-Grefsen are blue trams, that you find right outside the central station. 3 stops (6 min) and get off at Schous plass.
+We recommend using [public transport](https://ruter.no/en/getting-help/travelling-on-public-transport/). 🚌👍 Ticket inspections are frequent, so please make sure you always travel with a valid ticket. The best way to get to the venue is by tram and then a small walk. 12 Disen or 13 Storo-Grefsen are blue trams, that you find right outside the central station. 3 stops (6 min) and get off at [Schous plass and walk 500m](https://goo.gl/maps/k7GpPsWjkyN2).
 
 If you arrive at [Oslo Airport Gardermoen (OSL)](https://avinor.no/en/airport/oslo-airport/), you can take the [airport express (Flytoget)](http://flytoget.no/flytoget_eng/) which is super convenient. Or you can save some money by taking a local train in to Oslo Central Station.
 
-**ATM to withdraw** or **Forex Bank to exchange** can both be found in the same area at the station. Remember: Norwegian Kroners, not Euros! You can use a card almost everywhere, so many locals will not carry cash daily. Visitors may have issues if cards have no chip. But if you have a VISA or MasterCard with a chip, you might not need a lot of cash in Oslo.
+💰 **ATM to withdraw** or **Forex Bank to exchange** can both be found in the same area at the station. Remember: Norwegian Kroners, not Euros! You can use a card almost everywhere, so many locals will not carry cash daily. Visitors may have issues if cards have no chip. But if you have a VISA or MasterCard with a chip, you might not need a lot of cash in Oslo.
 
 ## Links
 
