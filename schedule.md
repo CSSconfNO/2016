@@ -1,5 +1,12 @@
 ### CSSconf Nordic 2016 Schedule
 
+## Tuesday
+
+**10:00** — venue opens
+**13:00** — we get access to the stage
+
+## Wednesday
+
 **08:00** — 🎫 registration opens at Dansens hus
 
 **09:00** — Håkon Wium Lie: Why CSS was invented <br>
