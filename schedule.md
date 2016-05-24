@@ -3,7 +3,10 @@
 ## Tuesday
 
 **10:00** — venue opens
+
 **13:00** — we get access to the stage
+
+**17:45** — meet up with speakers in hotel lobby
 
 ## Wednesday
 
