@@ -30,7 +30,7 @@
 **15:30** — Eva Ferreira: Raiders of the Lost Transforms <br>
 **16:15** — Lena Reinhard: Existing in the Tech Industry: How to cope with the pressure of a fast-paced environment
 
-**17:00** — …and it’s a wrap! 🎉 
+**17:00** — Group photo! …and then it’s a wrap. 🎉 
 
 **17:15** — 🍴 time for dinner, suggestions TBA 
 
