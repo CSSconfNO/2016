@@ -15,7 +15,7 @@ Also: [places to walk — and things to do](#places-to-walk-and-things-to-do) in
 * **[Paradis Gelateria](http://villaparadiso.no/mat/)** — Mmm, ice cream… 🍦
 
 ## Grünerløkka
-* **[Villa Paradiso](http://villaparadiso.no/mat/)** — Pizza! A great affordable dinner option.
+* **[Villa Paradiso](http://villaparadiso.no/mat/)** — Pizza! A great affordable [(?)](https://twitter.com/slsoftworks/status/737019666921619456) dinner option.
 * **[Tim Wendelboe](https://www.timwendelboe.no/about-us)** — A must for coffee geeks.
 * **[BrewDog BD57](https://www.brewdog.com/bars/worldwide/grunerlokka)** — A must for craft beer geeks.
 * **[Kamai](http://www.kamai.no/)** — Treat yourself to yummy sushi and bao in the café. (They also have a restaurant.)
