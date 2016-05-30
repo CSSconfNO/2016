@@ -2,12 +2,10 @@
 
 ## Tuesday
 
-**10:00** — venue opens
-
+**10:00** — venue opens <br>
 **13:00** — we get access to the stage
 
-**17:45** — meet up with speakers in hotel lobby and venue
-
+**17:45** — meet up with speakers in hotel lobby and venue <br>
 **18:00** — casual pre-conf dinner with speakers and crew at Smelteverket
 
 ## Wednesday
