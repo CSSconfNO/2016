@@ -6,7 +6,9 @@
 
 **13:00** — we get access to the stage
 
-**17:45** — meet up with speakers in hotel lobby
+**17:45** — meet up with speakers in hotel lobby and venue
+
+**18:00** — casual pre-conf dinner with speakers and crew at Smelteverket
 
 ## Wednesday
 
