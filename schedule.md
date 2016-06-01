@@ -32,7 +32,7 @@
 
 **17:00** — Group photo! …and then it’s a wrap. 🎉 
 
-**17:15** — 🍴 time for dinner, suggestions TBA 
+**17:15** — 🍴 time for dinner! No official conference dinner, but if you want to find other attendees to grab a some food with, we have some tables reserved at BD57. This is the [Brewdog pub](http://www.bd57.no/) at Markveien 57, just 500 meters away from the venue. Also see other suggestions near by in our [Oslo guide](https://github.com/CSSconfNO/docs/blob/gh-pages/oslo-guide.md).
 
 **19:00** — Social meet and greet for CSSconf and Web Rebels attendees 🎈<br> 
 V Bar & Bistro (on the ground floor of Scandic Vulkan hotel) 
