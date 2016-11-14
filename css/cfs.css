@@ -88,6 +88,11 @@ footer {
    }
 }
 
+.cfp-form {
+  margin-top: 6em;
+  padding-top: 3em;
+  border-top: 3px dashed #dbd7d1;
+}
 
 
 /* Modules
